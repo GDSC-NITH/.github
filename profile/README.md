@@ -1,7 +1,6 @@
 # Google Developer Students Club | NIT Hamirpur
 
-
-![GDSC NITH Logo](../profile/assets/DSCNITH.jpg)
+![DSCNITH (1)](https://user-images.githubusercontent.com/91022462/204130933-1d322d81-d12d-4f00-9a2c-502569f5ffc1.jpg)
 
 ### About
 >Google Developer Student Clubs NITH is a technical club focused on building a community of student developers interested in solving real-world problems. We host various workshops and hackathons. We also host flagship events from Google such as Android Study Jams, 30 days of Google Cloud, ExploreML etc.
@@ -45,7 +44,7 @@ Visit [gdscinith.in](https://gdsc.community.dev/national-institute-of-technology
 <a href="https://twitter.com/GDSC_NITH" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/company/dsc-nit-hamirpur/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/gdsc_nith/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=cd486b" /></a>
-<a href="gdscnith@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
+<a href="mailto:gdscnith@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
 </div>
 
 ----
