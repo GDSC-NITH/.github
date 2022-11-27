@@ -1,9 +1,16 @@
 # Google Developer Students Club | NIT Hamirpur
-![GDSC NITH Logo](./profile/assets/DSCNITH.jpg)
+
+
+![GDSC NITH Logo](../profile/assets/DSCNITH.jpg)
 
 ### About
->GDSC NITH is a student-oriented technical club that primely intends to aid students in building up their skills in the prominent tech fields of the present - Web Technologies, Machine learning, Mobile app development, Ui Ux development and Cloud. Students from any/every academic background are welcome. GDSC NITH fuels the concept of bringing like-minded tech geeks under one roof to enhance their growth and make the best of the talents available to the community.
+>Google Developer Student Clubs NITH is a technical club focused on building a community of student developers interested in solving real-world problems. We host various workshops and hackathons. We also host flagship events from Google such as Android Study Jams, 30 days of Google Cloud, ExploreML etc.
 
+
+GDSC NITH fuels the concept of bringing like-minded tech geeks under one roof to enhance their growth and make the best of the talents available to the community.
+Our goal is to build an inclusive community of students who want to learn about tech and grow together.
+  
+ ---- 
 ### Our Means Of Contribution:
 
 - Hands-on workshops
@@ -20,21 +27,27 @@
 
 - Panel discussions
 
+----
 
-### Our Vision:
-
->We, at GDSC NITH, firmly believe in collaborative learning and working together on community problems to come up with viable solutions. We grail to impart the tech-knowledge and aware folks all around by means of every possible thought and effort.
-
+## Get Involved
 
 
-### Don't wanna miss the opportunities?
-
-Keep yourself updated with us:
-
-- [Instagram](https://www.instagram.com/gdsc_nith/) | [Twitter](https://twitter.com/GDSC_NITH) | [LinkedIn](https://www.linkedin.com/company/dsc-nit-hamirpur/)
+![GitHub followers](https://img.shields.io/github/followers/GDSC-NITH?style=social)
+![GitHub Org's stars](https://img.shields.io/github/stars/GDSC-NITH?style=social)
 
 
+Our community is working on building some amazing projects together, and there are excellent "good first issue" opportunities, if you're looking to get involved. Feel free to contribute to any of our repositories. Check them out [here](https://github.com/orgs/GDSC-NITH/repositories).
 
-### Any Doubt?
+Visit [gdscinith.in](https://gdsc.community.dev/national-institute-of-technology-nit-hamirpur/) to learn more about us!
 
->Feel free to reach out to us at gdscnith@gmail.com in case of any queries or details.
+<div align="center">
+<h3>Connect With us on</h3>
+<a href="https://twitter.com/GDSC_NITH" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/company/dsc-nit-hamirpur/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/gdsc_nith/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=cd486b" /></a>
+<a href="gdscnith@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
+</div>
+
+----
+
+GDSC NITH projects adopt the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html). For more information see the [Code of Conduct FAQ](https://www.contributor-covenant.org/faq).
